@@ -1,17 +1,37 @@
-00:00:00 Norbert Reiling stellt sich vor #chapter
-Forschungszentrum Borstel <http://www.fz-borstel.de/cms/>
-AstmaAsthma bronchiale <https://de.wikipedia.org/wiki/Asthma_bronchiale> #wikipedia
-00:08:15 Die Tuberkulose #chapter
-Berichte zur Epidemiologie der Tuberkulose in Deutschland <https://www.rki.de/DE/Content/InfAZ/T/Tuberkulose/Archiv_Berichte_TB_in_Dtl_tab.html>
-Vitamin D <https://de.wikipedia.org/wiki/Vitamin_D> #wikipedia
-Mykobakterien <https://de.wikipedia.org/wiki/Mykobakterien> #wikipedia
-Fresszelle (Phagozyt) <https://de.wikipedia.org/wiki/Phagozyt> #wikipedia
-00:50:20 Therapie #chapter
-Generationszeit <https://de.wikipedia.org/wiki/Generationszeit> #wikipedia
-Zellwand <https://de.wikipedia.org/wiki/Zellwand> #wikipedia
-Oxidativer Stress <https://de.wikipedia.org/wiki/Oxidativer_Stress> #wikipedia
-01:09:50 Die Forschung #chapter
-Stoffwechsel <https://de.wikipedia.org/wiki/Stoffwechsel> #wikipedia
-Zellmembran <https://de.wikipedia.org/wiki/Zellmembran> #wikipedia
-omega tau 199 - Mass Spectrometers <http://omegataupodcast.net/199-mass-spectrometers/>
-Wnt-Signalweg <https://de.wikipedia.org/wiki/Wnt-Signalweg> #wikipedia
+00:00:00 Vorstellung Markus #c 
+00:03:45 Was ist ein Program? #c
+Bubblesort <https://de.wikipedia.org/wiki/Bubblesort> #wikipedia
+Prozessor <https://de.wikipedia.org/wiki/Prozessor> #wikipedia 
+Befehlssatz <https://de.wikipedia.org/wiki/Befehlssatz> #wikipedia
+Hexadezimalsystem <https://de.wikipedia.org/wiki/Hexadezimalsystem> #wikipedia 
+Compiler <https://de.wikipedia.org/wiki/Compiler> #wikipedia 
+Alan Turing <https://de.wikipedia.org/wiki/Alan_Turing> #wikipedia
+Halteproblem <https://de.wikipedia.org/wiki/Halteproblem> #wikipedia
+C (Programmiersprache) <https://de.wikipedia.org/wiki/C_(Programmiersprache)> #wikipedia
+Bootstrapping <https://de.wikipedia.org/wiki/Bootstrapping_(Informatik)> #wikipedia
+Landau-Symbole / Big 0 Notation <https://de.wikipedia.org/wiki/Landau-Symbole> #wikipedia 
+Hashtabelle <https://de.wikipedia.org/wiki/Hashtabelle> #wikipedia
+00:31:20 Warum gibt es mehr als eine Programmiersprache? #c
+BASIC <https://de.wikipedia.org/wiki/BASIC> #wikipedia
+Pascal <https://de.wikipedia.org/wiki/Pascal_(Programmiersprache)> #wikipedia
+Simulink <https://de.wikipedia.org/wiki/Simulink> #wikipedia
+Eskimo-Wörter für Schnee <https://de.wikipedia.org/wiki/Eskimo-Wörter_für_Schnee> #wikipedia
+Seiteneffekt <https://de.wikipedia.org/wiki/Wirkung_(Informatik)> #wikipedia
+Charles Simonyi <https://de.wikipedia.org/wiki/Charles_Simonyi> #wikipedia
+Batchverarbeitung <https://de.wikipedia.org/wiki/Stapelverarbeitung> #wikipedia
+01:11:47 Syntax und Semantik #c 
+Zustandsmaschine <https://de.wikipedia.org/wiki/Endlicher_Automat> #wikipedia
+Ruby <https://de.wikipedia.org/wiki/Ruby_(Programmiersprache)> #wikipedia
+01:44:55 Domänen #c
+Software Komponente <https://de.wikipedia.org/wiki/Komponente_(Software)> #wikipedia
+mbeddr <http://mbeddr.com>
+Kommandozeile <https://de.wikipedia.org/wiki/Kommandozeile> #wikipedia
+01:54:25 Entwicklungsumgebung #c
+IntelliJ IDEA <https://de.wikipedia.org/wiki/IntelliJ_IDEA> #wikipedia
+Eclipse <https://de.wikipedia.org/wiki/Eclipse_(IDE)> #wikipedia
+VIM <https://de.wikipedia.org/wiki/Vim> #wikipedia
+Xtext <https://de.wikipedia.org/wiki/Xtext> #wikipedia
+JetBrains MPS <https://www.jetbrains.com/mps/>
+Spoofax <http://www.metaborg.org/>
+02:33:25 Forschung #c
+Markus Dr. Arbeit / DSL Engineering Buch <http://dslbook.org>
